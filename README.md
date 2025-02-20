@@ -181,4 +181,4 @@ Inside backend folder:
 
 ## Contact
 
-- Email: ashihs298ansh@gmail.com
+- Email: ashish298ansh@gmail.com
