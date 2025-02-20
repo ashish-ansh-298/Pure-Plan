@@ -1,7 +1,6 @@
-# MERN Task Manager
+# MERN Pure Plan 
 
 A MERN application for basic tasks management.
-![image](https://user-images.githubusercontent.com/86913048/227101123-f8a35258-9c21-4479-86e8-055659ab75e2.png)
 
 ## Table of Contents
 
@@ -61,7 +60,6 @@ A MERN application for basic tasks management.
 - Node.js
 - Express.js
 - React
-- Redux
 - Mongodb
 
 ## Dependencies
@@ -160,10 +158,6 @@ Inside backend folder:
 
 ## Useful Links
 
-- This project
-
-  - Github Repo: https://github.com/aayush301/MERN-task-manager
-
 - Official Docs
 
   - Reactjs docs: https://reactjs.org/docs/getting-started.html
@@ -175,8 +169,6 @@ Inside backend folder:
 
   - Expressjs: https://youtu.be/L72fhGm1tfE
   - React: https://youtu.be/EHTWMpD6S_0
-  - Redux: https://youtu.be/1oU_YGhT7ck
-
 - Download links
 
   - Nodejs download: https://nodejs.org/
@@ -189,5 +181,4 @@ Inside backend folder:
 
 ## Contact
 
-- Email: aayush5521186@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
+- Email: ashihs298ansh@gmail.com
